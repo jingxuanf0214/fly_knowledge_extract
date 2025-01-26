@@ -1,0 +1,182 @@
+[
+    {
+        "entity": "MBON01",
+        "question": "Given the paper chunk, summarize key information related to 'MBON01'. Answer:",
+        "answer": "MBON01 is a type of mushroom body output neuron (MBON) that has been identified in the hemibrain volume. It is involved in the processing of learned associations and has specific connectivity patterns with other neurons. MBON01 (g5b\u20192a) receives synaptic input from PAM01-fb DANs and is involved in appetitive memory. It is connected to PAM01 DANs, which are implicated in the reinforcement of nutrient-dependent long-term memory."
+    },
+    {
+        "entity": "MBON02",
+        "question": "Given the paper chunk, summarize key information related to 'MBON02'. Answer:",
+        "answer": "MBON02 is another type of MBON found in the hemibrain volume. It participates in the network of MBONs that convey information about learned associations, although specific details about its connectivity or function are not provided in the excerpt. MBON02 is not specifically mentioned in the provided text, so no detailed information is available."
+    },
+    {
+        "entity": "MBON03",
+        "question": "Given the paper chunk, summarize key information related to 'MBON03'. Answer:",
+        "answer": "MBON03 is characterized as having connections to other MBONs and is part of the network that integrates sensory information. It has been noted for its axo-axonal connections with other MBONs, indicating its role in the feedforward network. MBON03 is connected to multiple DANs and is involved in the processing of olfactory information. It is also influenced by feedback from other MBONs, which may modulate its activity."
+    },
+    {
+        "entity": "MBON04",
+        "question": "Given the paper chunk, summarize key information related to 'MBON04'. Answer:",
+        "answer": "MBON04 is mentioned as a typical MBON that has connections with other MBONs. It is involved in the processing of sensory information and learned associations, although specific details about its inputs or outputs are not elaborated in the excerpt. MBON04 is not specifically mentioned in the provided text, so no detailed information is available."
+    },
+    {
+        "entity": "MBON05",
+        "question": "Given the paper chunk, summarize key information related to 'MBON05'. Answer:",
+        "answer": "MBON05 is identified as a key player in the multi-layered feedforward network of MBONs. It has a significant fraction of its output directed to other MBONs, indicating its role in integrating and processing information. MBON05 (g4>g1g2) is involved in appetitive memory and has connections to PAM DANs. It plays a role in the reinforcement of learning associated with positive stimuli."
+    },
+    {
+        "entity": "MBON06",
+        "question": "Given the paper chunk, summarize key information related to 'MBON06'. Answer:",
+        "answer": "MBON06 is noted for its connections to other MBONs within the mushroom body. It forms part of the feedforward network and is involved in the integration of sensory information. MBON06 (b1>a) is glutamatergic and is involved in appetitive memory. It has reciprocal connections with MBON11 and is influenced by PAM10 DANs, which can assign appetitive valence to odors."
+    },
+    {
+        "entity": "MBON07",
+        "question": "Given the paper chunk, summarize key information related to 'MBON07'. Answer:",
+        "answer": "MBON07 is connected to other MBONs and is part of the network that processes learned associations. Specific details about its function or connectivity are not provided in the excerpt. MBON07 (g1pedc> a/b) is GABAergic and plays a role in aversive memory. It is connected to PAM11 DANs and is involved in the modulation of memory expression."
+    },
+    {
+        "entity": "MBON09",
+        "question": "Given the paper chunk, summarize key information related to 'MBON09'. Answer:",
+        "answer": "MBON09 is involved in the network of MBONs and has been noted for its axo-axonal connections with other MBONs outside the mushroom body. It plays a role in integrating information from various sources. MBON09 (g3b01) is GABAergic and is involved in the formation of safety memories. It receives input from KCs and has connections to PAM12 DANs, which modulate its activity."
+    },
+    {
+        "entity": "MBON10",
+        "question": "Given the paper chunk, summarize key information related to 'MBON10'. Answer:",
+        "answer": "MBON10 is classified as an atypical MBON due to its dendritic arbors extending outside the MB lobes. It has been reclassified based on its connectivity and is involved in integrating information from multiple sources. MBON10 is not specifically mentioned in the provided text, so no detailed information is available."
+    },
+    {
+        "entity": "MBON11",
+        "question": "Given the paper chunk, summarize key information related to 'MBON11'. Answer:",
+        "answer": "MBON11 is part of the feedforward network of MBONs and has connections to other MBONs. It plays a role in the integration of sensory information and learned associations. MBON11 (g1pedc) is a GABAergic neuron that connects with multiple other MBONs and plays a critical role in aversive learning. It is involved in the inhibition of other MBONs and is influenced by PPL1 DANs."
+    },
+    {
+        "entity": "MBON12",
+        "question": "Given the paper chunk, summarize key information related to 'MBON12'. Answer:",
+        "answer": "MBON12 is one of the identified MBONs in the hemibrain volume, contributing to the processing of learned associations. Specific details about its connectivity or function are not provided in the excerpt. MBON12 is not specifically mentioned in the provided text, so no detailed information is available."
+    },
+    {
+        "entity": "MBON13",
+        "question": "Given the paper chunk, summarize key information related to 'MBON13'. Answer:",
+        "answer": "MBON13 is mentioned as part of the network of MBONs involved in processing learned associations. Further details about its specific role or connectivity are not elaborated in the excerpt. MBON13 is not specifically mentioned in the provided text, so no detailed information is available."
+    },
+    {
+        "entity": "MBON14",
+        "question": "Given the paper chunk, summarize key information related to 'MBON14'. Answer:",
+        "answer": "MBON14 is characterized as having specific connectivity patterns and is involved in the processing of learned associations. It is part of the network of MBONs that integrate sensory information. MBON14 (a3) is involved in appetitive memory and is influenced by PAM10 DANs. It receives input from MBON06 and is part of the network that drives approach behavior."
+    },
+    {
+        "entity": "MBON15",
+        "question": "Given the paper chunk, summarize key information related to 'MBON15'. Answer:",
+        "answer": "MBON15 is noted for its connections with other MBONs and is involved in the processing of learned associations. Specific details about its function or connectivity are not provided in the excerpt. MBON15 is not specifically mentioned in the provided text, so no detailed information is available."
+    },
+    {
+        "entity": "MBON15-like",
+        "question": "Given the paper chunk, summarize key information related to 'MBON15-like'. Answer:",
+        "answer": "MBON15-like refers to a variant of MBON15 that has been identified based on its morphology and connectivity. It shares similarities with MBON15 but may have distinct features. MBON15-like is not specifically mentioned in the provided text, so no detailed information is available."
+    },
+    {
+        "entity": "MBON16",
+        "question": "Given the paper chunk, summarize key information related to 'MBON16'. Answer:",
+        "answer": "MBON16 is part of the network of MBONs and is involved in the processing of learned associations. Specific details about its connectivity or function are not provided in the excerpt. MBON16 is not specifically mentioned in the provided text, so no detailed information is available."
+    },
+    {
+        "entity": "MBON17",
+        "question": "Given the paper chunk, summarize key information related to 'MBON17'. Answer:",
+        "answer": "MBON17 is mentioned as part of the network of MBONs involved in processing learned associations. Further details about its specific role or connectivity are not elaborated in the excerpt. MBON17 is not specifically mentioned in the provided text, so no detailed information is available."
+    },
+    {
+        "entity": "MBON17-like",
+        "question": "Given the paper chunk, summarize key information related to 'MBON17-like'. Answer:",
+        "answer": "MBON17-like refers to a variant of MBON17 that has been identified based on its morphology and connectivity. It shares similarities with MBON17 but may have distinct features. MBON17-like is not specifically mentioned in the provided text, so no detailed information is available."
+    },
+    {
+        "entity": "MBON18",
+        "question": "Given the paper chunk, summarize key information related to 'MBON18'. Answer:",
+        "answer": "MBON18 is part of the network of MBONs and contributes to the processing of learned associations. Specific details about its connectivity or function are not provided in the excerpt. MBON18 (a2sc) is involved in long-term memory and is influenced by the activity of other MBONs, particularly in the context of aversive learning."
+    },
+    {
+        "entity": "MBON19",
+        "question": "Given the paper chunk, summarize key information related to 'MBON19'. Answer:",
+        "answer": "MBON19 is characterized as having specific connectivity patterns and is involved in the processing of learned associations. It is part of the network of MBONs that integrate sensory information. MBON19 (a2p3p) is involved in the processing of olfactory information and has connections to other MBONs, contributing to the overall network of memory processing."
+    },
+    {
+        "entity": "MBON20",
+        "question": "Given the paper chunk, summarize key information related to 'MBON20'. Answer:",
+        "answer": "MBON20 is classified as an atypical MBON due to its dendritic arbors extending outside the MB lobes. It has been reclassified based on its connectivity and is involved in integrating information from multiple sources. MBON20 is not specifically mentioned in the provided text, so no detailed information is available."
+    },
+    {
+        "entity": "MBON21",
+        "question": "Given the paper chunk, summarize key information related to 'MBON21'. Answer:",
+        "answer": "MBON21 is mentioned as part of the network of MBONs involved in processing learned associations. Specific details about its function or connectivity are not provided in the excerpt. MBON21 is not specifically mentioned in the provided text, so no detailed information is available."
+    },
+    {
+        "entity": "MBON22",
+        "question": "Given the paper chunk, summarize key information related to 'MBON22'. Answer:",
+        "answer": "MBON22 is one of the identified MBONs in the hemibrain volume, contributing to the processing of learned associations. Specific details about its connectivity or function are not provided in the excerpt. MBON22 is not specifically mentioned in the provided text, so no detailed information is available."
+    },
+    {
+        "entity": "MBON23",
+        "question": "Given the paper chunk, summarize key information related to 'MBON23'. Answer:",
+        "answer": "MBON23 is characterized as having specific connectivity patterns and is involved in the processing of learned associations. It is part of the network of MBONs that integrate sensory information. MBON23 is not specifically mentioned in the provided text, so no detailed information is available."
+    },
+    {
+        "entity": "MBON24",
+        "question": "Given the paper chunk, summarize key information related to 'MBON24'. Answer:",
+        "answer": "MBON24 is classified as an atypical MBON and is involved in integrating information from multiple sources. Specific details about its connectivity or function are not provided in the excerpt. MBON24 (b2g5) is involved in the processing of sensory information and has specific connections to PAM01 DANs, indicating a role in appetitive memory."
+    },
+    {
+        "entity": "MBON25",
+        "question": "Given the paper chunk, summarize key information related to 'MBON25'. Answer:",
+        "answer": "MBON25 is mentioned as part of the network of MBONs involved in processing learned associations. Specific details about its function or connectivity are not provided in the excerpt. MBON25 is not specifically mentioned in the provided text, so no detailed information is available."
+    },
+    {
+        "entity": "MBON26",
+        "question": "Given the paper chunk, summarize key information related to 'MBON26'. Answer:",
+        "answer": "MBON26 is noted for its significant role in the network of atypical MBONs, particularly in integrating sensory information. It is positioned at the top of the network hierarchy. MBON26 is not specifically mentioned in the provided text, so no detailed information is available."
+    },
+    {
+        "entity": "MBON27",
+        "question": "Given the paper chunk, summarize key information related to 'MBON27'. Answer:",
+        "answer": "MBON27 is characterized as having significant input from non-olfactory sources and is involved in the processing of sensory information. It plays a role in the network of atypical MBONs. MBON27 (g5d) is connected to PAM01 DANs and is involved in the processing of sensory information, particularly in relation to appetitive memory."
+    },
+    {
+        "entity": "MBON28",
+        "question": "Given the paper chunk, summarize key information related to 'MBON28'. Answer:",
+        "answer": "MBON28 is part of the network of atypical MBONs and is involved in integrating information from multiple sources. Specific details about its connectivity or function are not provided in the excerpt. MBON28 is not specifically mentioned in the provided text, so no detailed information is available."
+    },
+    {
+        "entity": "MBON29",
+        "question": "Given the paper chunk, summarize key information related to 'MBON29'. Answer:",
+        "answer": "MBON29 is mentioned as part of the network of atypical MBONs and is involved in integrating information from multiple sources. Specific details about its connectivity or function are not provided in the excerpt. MBON29 (g4g5) is involved in the processing of sensory information and has connections to PAM01 DANs, indicating a role in appetitive memory."
+    },
+    {
+        "entity": "MBON30",
+        "question": "Given the paper chunk, summarize key information related to 'MBON30'. Answer:",
+        "answer": "MBON30 is identified as a hub within the network of atypical MBONs, receiving input from various sources. It plays a significant role in integrating sensory information. MBON30 (g1g2g3) is influenced by PAM12 DANs and is involved in the processing of sensory information, particularly in relation to visual and olfactory stimuli."
+    },
+    {
+        "entity": "MBON31",
+        "question": "Given the paper chunk, summarize key information related to 'MBON31'. Answer:",
+        "answer": "MBON31 is part of the network of atypical MBONs and is involved in integrating information from multiple sources. Specific details about its connectivity or function are not provided in the excerpt. MBON31 is not specifically mentioned in the provided text, so no detailed information is available."
+    },
+    {
+        "entity": "MBON32",
+        "question": "Given the paper chunk, summarize key information related to 'MBON32'. Answer:",
+        "answer": "MBON32 is characterized as having significant input from atypical MBONs and is involved in the processing of sensory information. Specific details about its connectivity or function are not provided in the excerpt. MBON32 is not specifically mentioned in the provided text, so no detailed information is available."
+    },
+    {
+        "entity": "MBON33",
+        "question": "Given the paper chunk, summarize key information related to 'MBON33'. Answer:",
+        "answer": "MBON33 is mentioned as part of the network of atypical MBONs and is involved in integrating information from multiple sources. Specific details about its connectivity or function are not provided in the excerpt. MBON33 (g2g3) is involved in the processing of visual information and has specific connections to PAM12 DANs, indicating a role in sensory processing."
+    },
+    {
+        "entity": "MBON34",
+        "question": "Given the paper chunk, summarize key information related to 'MBON34'. Answer:",
+        "answer": "MBON34 is characterized as having specific connectivity patterns and is involved in the processing of learned associations. It is part of the network of atypical MBONs. MBON34 is not specifically mentioned in the provided text, so no detailed information is available."
+    },
+    {
+        "entity": "MBON35",
+        "question": "Given the paper chunk, summarize key information related to 'MBON35'. Answer:",
+        "answer": "MBON35 is part of the network of atypical MBONs and is involved in integrating information from multiple sources. Specific details about its connectivity or function are not provided in the excerpt. MBON35 is not specifically mentioned in the provided text, so no detailed information is available."
+    }
+]
